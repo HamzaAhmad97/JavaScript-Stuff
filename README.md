@@ -7,6 +7,8 @@
 | 2 | [Object Recipe](https://hamzaahmad97.github.io/to-talk-about-when-we-meet/Object-recipe) |
 | 3 | [Asynchronous Stuff](https://hamzaahmad97.github.io/to-talk-about-when-we-meet/Asynchronous-stuff) |
 | 4 | [Modules](https://hamzaahmad97.github.io/to-talk-about-when-we-meet/Modules) |
+| 5 | [HTTP, forms and networks](https://hamzaahmad97.github.io/to-talk-about-when-we-meet/Networks-http-forms) |
+| 6 | [AJAX](https://hamzaahmad97.github.io/to-talk-about-when-we-meet/AJAX) |
 
 
 
