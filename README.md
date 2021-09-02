@@ -11,7 +11,8 @@
 | 6 | [AJAX](https://hamzaahmad97.github.io/ref/AJAX) |
 | 7 | [Bootstrap](https://hamzaahmad97.github.io/ref/bootstrap) |
 | 8 | [SASS](https://hamzaahmad97.github.io/ref/SASS) |
-| 9 | [React](https://hamzaahmad97.github.io/ref/react) |
+| 9 | [jQuery](https://hamzaahmad97.github.io/ref/jQuery) |
+| 10 | [React](https://hamzaahmad97.github.io/ref/react) |
 
 
 
