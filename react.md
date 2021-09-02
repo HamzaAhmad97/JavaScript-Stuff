@@ -4,4 +4,16 @@
 
 * we use `{/* */}` to put comments inside a JSX.
 
+* functional components are stateless, they are just functions that return either JSX or null. The function name should start with a capital letter just like constructor functions.
+
+```
+const DemoComponent = function() {
+  return (
+    <div className='customClass' />
+  );
+};
+```
+
+* we can use functional and class based components together since we only care about the returned JSX.
+
 * 
