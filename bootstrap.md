@@ -1,4 +1,4 @@
-## General and Buttons
+# Bootstrap
 
 - Bootstrap figures out how wide your screen is.
 - We add
@@ -17,8 +17,6 @@
 - Class **form-control** can be given to form fields of type input text, they will have a width of 100%.
 
 ---
-
-## Grids
 
 - Divs with class **row** construct a Bootstrap row, and we split it using other divs with classes like **col-md-\***.
 - Bootstrap uses a responsive _12-column_ grid system, which makes it easier to to destribute elements into rows with a specific _relative width_.
@@ -44,8 +42,6 @@
 ```
 
 ---
-
-## Others
 
 - To include **Font Awesome** icons you should put this link element on top of the HTML file `<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">`.
 - The _i_ element is used for icons, we can add Font Awesome classes to the i element to turn it into an icon. We can also use the span element for icons. It seems like we have to always include the 'fas' part, I am still not sure yet.

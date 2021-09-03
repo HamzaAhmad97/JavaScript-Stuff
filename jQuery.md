@@ -1,3 +1,5 @@
+# JQuery
+
 * `$(document).ready(function() {...});` code put inside this function is going to run as soon as the browser loads the page. As a shortcut, it can be written as follows: `$(function() {// jQuery code goes here});`.
 
 * All jQuery functions start with a dollar sign character `$`, then we select an element with a selector just like we do with normal css, and this is an example of how we select a button and add a class to it: `$("button").addClass("animated bounce");`.

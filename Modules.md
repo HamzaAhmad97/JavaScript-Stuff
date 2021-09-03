@@ -1,3 +1,5 @@
+# Modules
+
 The main idea descussed here is that when everything in a program is deeply entangled so that every single peice of code depends on the other in a way that does not show or support using already defined peices of code, adding features or fixing errors will be a really hard problem, that's why we rely on modules and packages to preserve code that can be used multiple times and to avoid falling in such traps.
 
 ## Modules

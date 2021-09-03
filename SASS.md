@@ -1,3 +1,5 @@
+# SASS
+
 * we can define variables in SASS by typing `$` followed by the variable name: `$headings-color: green;`, then we can use them later: 
 
 ```
