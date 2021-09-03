@@ -10,8 +10,5 @@
 | 5 | [Bootstrap](https://hamzaahmad97.github.io/ref/bootstrap) |
 | 6 | [SASS](https://hamzaahmad97.github.io/ref/SASS) |
 | 7 | [jQuery](https://hamzaahmad97.github.io/ref/jQuery) |
-| 8 | [React](https://hamzaahmad97.github.io/ref/react) |
+| 8 | [React](https://hamzaahmad97.github.io/ref/React) |
 | 9 | [Redux](https://hamzaahmad97.github.io/ref/Redux) |
-
-
-
