@@ -67,4 +67,19 @@ shouldComponentUpdate(nextProps, nextState) {
 
 * If you have a large set of styles and we are using inline styles, you can assign a style object to a constant to keep your code organized. Declare your styles constant as a global variable at the top of the file: ` <div style={styles}>Style Me!</div>`.
 
-* 
+* to do conditional rendering, you can put an if else statement in the render method, and have two returns, one in the if statement, and the other in the else statement.
+
+* it is better to use the `&&` operator, since having many if else statements makes a room for errors, and you repeat code, so we can use the `&&` instead: `{condition && <p>markup</p>}`.
+
+* ternary operator gives more flexibility since it allows you to write it down inside the JSX directly, and it also let's you nest more components or levels with less code compared to normal if else.
+
+* You can pass confitional rendering expressions in props, so based on the value passed with props to the child, the child may or may  not show or do something differenty.
+
+* there are some use cases where it makes sense to render a React component on the server. Since React is a JavaScript view library and you can run JavaScript on the server with Node, this is possible. In fact, React provides a `renderToString()` method you can use for this purpose. Typically, it’s used on a Node server:
+
+```
+// ES modules
+import ReactDOMServer from 'react-dom/server';
+// CommonJS
+var ReactDOMServer = require('react-dom/server');
+```
