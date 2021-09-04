@@ -12,3 +12,4 @@
 | 7 | [jQuery](https://hamzaahmad97.github.io/ref/jQuery) |
 | 8 | [React](https://hamzaahmad97.github.io/ref/React) |
 | 9 | [Redux](https://hamzaahmad97.github.io/ref/Redux) |
+| 10 | [React And Redux](https://hamzaahmad97.github.io/ref/React-and-Redux) |
